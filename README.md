@@ -30,9 +30,11 @@
 
 ## 🎧 Spotify Playing
 
-
+<p align="left">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11155128991&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11155128991&redirect=true)
+
+</p>
 
 
 
