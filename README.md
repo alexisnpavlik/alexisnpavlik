@@ -7,24 +7,25 @@
 
 
 - 🧪 I am a chemist by profession.
-- 🖥️ I am a software developer oriented to data analyst and machine learning.
+- 🖥️ I am a software developer for passion.
+- 👨‍💻 Specialized in data analyst and machine learning.
 - 👨‍🔬 My country of origin is Argentina.
 - ☕ I'm addicted to coffee.
 - 🏆 In 2019 I obtained 3rd place in an innovation contest in Latin America.
 
 <p align="left">
-  <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alexisnpavlik&show_icons=true&theme=highcontrast">
-  <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisnpavlik&hide=html,scss,css&langs_count=10&layout=compact&theme=highcontrast">
+  <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alexisnpavlik&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisnpavlik&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
 </p>
     
 ## My repos
     
 <p align="left">
   
-   <a href="https://github.com/alexisnpavlik/Fundamento-de-IA"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Fundamento-de-IA&langs_count=5&theme=highcontrast">
-  <a href="https://github.com/alexisnpavlik/Learning-Data-Science"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&card_height=300&&repo=Learning-Data-Science&langs_count=5&layout=compact&theme=highcontrast">
-  <a href="https://github.com/alexisnpavlik/python-samples"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=python-samples&layout=compact&theme=highcontrast">
-  <a href="https://github.com/alexisnpavlik/Proyecto-Final"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Proyecto-Final&hide=html,scss,css&langs_count=10&layout=compact&theme=highcontrast">
+   <a href="https://github.com/alexisnpavlik/Fundamento-de-IA"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Fundamento-de-IA&langs_count=5&theme=tokyonight">
+  <a href="https://github.com/alexisnpavlik/Learning-Data-Science"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&card_height=300&&repo=Learning-Data-Science&langs_count=5&layout=compact&theme=tokyonight">
+  <a href="https://github.com/alexisnpavlik/python-samples"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=python-samples&layout=compact&theme=tokyonight">
+  <a href="https://github.com/alexisnpavlik/Proyecto-Final"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Proyecto-Final&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
 </p>  
 
 ## 🎧 Spotify Playing
