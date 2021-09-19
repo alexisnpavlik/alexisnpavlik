@@ -10,7 +10,7 @@
 - 🖥️ I am a software developer for passion.
 - 👨‍💻 Specialized in data analyst and machine learning.
 - 👨‍🔬 My country of origin is Argentina.
-- ☕ I'm addicted to coffee.
+- ☕ I'm addicted to coffee and love the burgers🍔
 - 🏆 In 2019 I obtained 3rd place in an innovation contest in Latin America.
 
 <p align="left">
@@ -24,7 +24,7 @@
   
    <a href="https://github.com/alexisnpavlik/Fundamento-de-IA"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Fundamento-de-IA&langs_count=5&theme=tokyonight">
   <a href="https://github.com/alexisnpavlik/Learning-Data-Science"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&card_height=300&&repo=Learning-Data-Science&langs_count=5&layout=compact&theme=tokyonight">
-  <a href="https://github.com/alexisnpavlik/python-samples"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=python-samples&layout=compact&theme=tokyonight">
+  <a href="https://github.com/alexisnpavlik/Juego-del-ahorcado"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Juego-del-ahorcado&layout=compact&theme=tokyonight">
   <a href="https://github.com/alexisnpavlik/Proyecto-Final"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Proyecto-Final&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
 </p>  
 
