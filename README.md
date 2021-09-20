@@ -20,10 +20,6 @@
   <a href="https://github.com/alexisnpavlik"><img width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alexisnpavlik&show_icons=true&theme=tokyonight">
 <p>
 
-<p align="left">
-  <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alexisnpavlik&show_icons=true&theme=highcontrast">
-  <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisnpavlik&hide=html,scss,css&langs_count=10&layout=compact&theme=highcontrast">
-</p>
   
 ## My repos
     
@@ -40,7 +36,7 @@
 
 ## 🎧 Spotify Playing
 
-<p align="left">
+<p align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11155128991&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11155128991&redirect=true)
 
@@ -50,4 +46,7 @@
 
 ## 🔧 Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
+<p align="center">
+
+  ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
+<p>
