@@ -8,7 +8,7 @@
 
 - 🧪 I am a chemist by profession.
 - 🖥️ I am a software developer for passion.
-- 👨‍💻 Specialized in data analyst and machine learning.
+- 👨‍💻 I specialize in data analyst and machine learning.
 - 👨‍🔬 My country of origin is Argentina.
 - ☕ I'm addicted to coffee and love the burgers🍔
 - 🏆 In 2019 I obtained 3rd place in an innovation contest in Latin America.
