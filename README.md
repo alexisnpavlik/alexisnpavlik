@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alexisnpavlik&show_icons=true&theme=tokyonight">
   <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisnpavlik&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
-  <a href="https://github.com/alexisnpavlik"><img width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alexisnpavlik&show_icons=true&theme=tokyonight">
+
 <p>
 
 
