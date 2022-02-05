@@ -41,7 +41,7 @@
 
 ## 🔧 Technologies
 
-- Data Science
+Data Science: 
 • Python
 • Pandas, Numpy, Plotly 
 • SQL Server / Metabase
@@ -50,12 +50,12 @@
 • Google Data Studio
 • Jupyter Notebook (Deepnote / Colab)
 
-- Web Development
+Web Development:
 • Html 5
 • Css
 • Javascript
  
-- Others
+Others: 
 • Marckdown
 • Notion
 • Github
