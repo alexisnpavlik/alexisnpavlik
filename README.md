@@ -18,21 +18,6 @@
   <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api?username=alexisnpavlik&show_icons=true&theme=tokyonight">
   <a href="https://github.com/alexisnpavlik"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisnpavlik&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
 
-<p>
-
-
-  
-## My repos
-    
-<p align="left">
-  
-   <a href="https://github.com/alexisnpavlik/Fundamento-de-IA"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Fundamento-de-IA&langs_count=5&theme=tokyonight">
-  <a href="https://github.com/alexisnpavlik/Learning-Data-Science"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&card_height=300&&repo=Learning-Data-Science&langs_count=5&layout=compact&theme=tokyonight">
-  <a href="https://github.com/alexisnpavlik/Juego-del-ahorcado"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Juego-del-ahorcado&layout=compact&theme=tokyonight">
-  <a href="https://github.com/alexisnpavlik/Proyecto-Final"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexisnpavlik&repo=Proyecto-Final&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
-
-
-</p>  
 
 
 <!--   GitHub stats graph -->
