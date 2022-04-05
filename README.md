@@ -11,7 +11,6 @@
 - 👨‍💻 I specialize in data analyst.
 - 👨‍🔬 My country of origin is Argentina.
 - ☕ I'm addicted to coffee and love the burgers🍔
-- 🏆 In 2019 I obtained 3rd place in an innovation contest in Latin America.
 
 
 <p align="left">
