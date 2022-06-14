@@ -8,7 +8,6 @@
 
 - 🧪 I am a chemist by profession.
 - 🖥️ I am a software developer for passion.
-- 👨‍💻 I specialize in data analyst.
 - 👨‍🔬 My country of origin is Argentina.
 - ☕ I'm addicted to coffee and love the burgers🍔
 
